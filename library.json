@@ -1,0 +1,35 @@
+[
+  {
+    "title":"python crash course",
+    "author":"Eric Mattes",
+    "publication_year":2019,
+    "genre":"programming",
+    "read_status":false,
+    "added_data":"2025-03-12 11:35:40"
+  },
+  {
+     "title":"Head First Python",
+    "author":"Paul Barry",
+    "publication_year":2010,
+    "genre":"programming",
+    "read_status":false,
+    "added_data":"2025-03-13 10:25:30"
+  },
+   {
+     "title":"Fluent Python",
+    "author":"Luciano Ramalho",
+    "publication_year":2015,
+    "genre":"programming",
+    "read_status":false,
+    "added_data":"2025-03-11 11:20:30"
+  },
+ {
+     "title":"Think Python",
+    "author":"Allen B. Downey",
+    "publication_year":2024,
+    "genre":"programming",
+    "read_status":true,
+    "added_data":"2025-03-15 12:10:20"
+  },
+  
+]
